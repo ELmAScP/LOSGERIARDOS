@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f1c4765e-2f22-497b-8a5f-e980cfd4ed5d",
+    "name": "Loc0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
